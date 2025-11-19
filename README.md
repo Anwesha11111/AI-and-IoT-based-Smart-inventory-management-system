@@ -1,0 +1,1 @@
+# AI-and-IoT-based-Smart-inventory-management-system
