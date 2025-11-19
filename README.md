@@ -25,3 +25,19 @@ An AI and IoT-based smart inventory management system that enables real-time tra
 - Required hardware and sensors
 
 ### Installation
+
+```
+git clone https://github.com/Anwesha11111/smart-inventory-management-system.git
+cd smart-inventory-management-system
+```
+Follow setup for backend, frontend, and embedded as per project structure
+text
+### Usage
+- Start sensor hardware and backend services
+- Access frontend dashboard at http://localhost:3000
+
+## Contributing
+Open to collaboration! Please raise issues or submit pull requests.
+
+## License
+[MIT](LICENSE)
